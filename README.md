@@ -113,6 +113,8 @@ public class MoveFwd : MonoBehaviour
     }
 }
 ```
+## Output:
+![image](https://github.com/Ronick2005/Ex4.1-Animal-Feeding-Phase1/assets/83219341/86e72995-7412-4825-8750-12c392f06fa3)
 
 ## Result:
 Animal Feeding Game Phase-1 using unity is developed successfully.
